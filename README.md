@@ -29,8 +29,7 @@ Develop a model to predict customer churn for a subscription-based service or bu
 ### Task 4: Spam SMS Detection
 Build an AI model that classifies SMS messages as spam or legitimate using techniques like TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines.
 
-### Task 5: Handwritten Text Generation
-Implement a character-level recurrent neural network (RNN) to generate handwritten-like text based on a dataset of handwritten text examples.
+
 
 
 
